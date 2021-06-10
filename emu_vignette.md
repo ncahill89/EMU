@@ -15,10 +15,12 @@ statistics.
 4.  [Plot the point estimates against the survey data](#plot)
     `plot_fp_c`
     
-    (i) number of contraceptive commodities distributed to clients and/or
+(i) number of contraceptive commodities distributed to clients and/or
     facilities (clients/facilities);
+    
 (ii) number of times clients interacted with a provider for
      contraceptive services (visits);
+     
 (iii) number of current contraceptive users of any method including
       those who are still using longer acting methods that were received
       in previous years (users).
