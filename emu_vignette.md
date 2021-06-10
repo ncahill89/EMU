@@ -31,7 +31,21 @@ statistics.
 emu_data <- readr::read_csv("emu_data.csv")
 emu_data
 ```
-
+#> # A tibble: 30 x 5
+#>    division_numeric_code name      year    emu ss_type   
+#>                    <dbl> <chr>    <dbl>  <dbl> <chr>     
+#>  1                   120 Cameroon 2014. 0.0264 facilities
+#>  2                   120 Cameroon 2016. 0.0358 facilities
+#>  3                   120 Cameroon 2016. 0.0595 facilities
+#>  4                   120 Cameroon 2018. 0.114  facilities
+#>  5                   454 Malawi   2012. 0.360  visits    
+#>  6                   454 Malawi   2014. 0.375  visits    
+#>  7                   454 Malawi   2014. 0.392  visits    
+#>  8                   454 Malawi   2016. 0.407  visits    
+#>  9                   454 Malawi   2016. 0.411  visits    
+#> 10                   454 Malawi   2018. 0.394  visits    
+#> # … with 20 more rows
+    
 ## <a name="fit"></a>
 
 ## 2. Fit a one-country model using surveys and EMUs
