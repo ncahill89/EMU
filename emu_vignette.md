@@ -14,6 +14,8 @@ statistics.
 3.  [Calculate point estimates for mCPR](#results) `calc_fp_c`
 4.  [Plot the point estimates against the survey data](#plot)
     `plot_fp_c`
+5.  **ss_type:** the service statistics source type which can be:
+
     
 (i) number of contraceptive commodities distributed to clients and/or
     facilities (clients/facilities);
