@@ -4,7 +4,7 @@ Estimating mCPR for married women with custom EMU data
 
 ## Introduction
 
-In this vignette we obtain estimates of the modern contraceptive
+In this vignette we use the [fpemlocal](https://github.com/AlkemaLab/fpemlocal) R package to obtain estimates of the modern contraceptive
 prevalence rate (mCPR) for married women with package survey data and a
 custom dataset of Estimated Modern Use (EMU) derived from service
 statistics.
